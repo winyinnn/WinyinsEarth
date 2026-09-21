@@ -1,0 +1,44 @@
+body {
+    background-color:rgb(173, 231, 231);
+    color:black;
+}
+
+h1 {
+    font-family: fantasy;
+    font-style: italic;
+    font-weight: 1000;
+}
+
+h2 {
+    font-family: cursive;
+    font-style: oblique;
+    font-weight: bolder;
+}
+
+p {
+    font-family: fantasy;
+}
+
+img {
+    width: 500px;
+    border-radius: 20px;
+}
+
+a {
+    background-color: rgb(74, 74, 145);
+    font-weight: 900;
+    font-size: 15px;
+    padding: 5px 5px;
+    border-radius: 10px;
+    border-style: dotted;
+    text-decoration: none;
+    color: aliceblue;
+    font-family: papyrus, fantasy;
+    margin: 50px;
+
+}
+
+li {
+    gap: 20px;
+    margin: 20px;
+}
